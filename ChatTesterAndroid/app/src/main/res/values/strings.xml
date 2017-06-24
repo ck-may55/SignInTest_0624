@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NotifiTest0429</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="chatpage_url">https://yawnchat-919a4.firebaseapp.com/?emaillocal=star318.ss&amp;password=999999</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
